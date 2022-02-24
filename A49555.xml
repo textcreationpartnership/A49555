@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech of Richard Langhorn Esq. at his execution July 14, 1679 being left in writing by him under his own hand.</title>
+            <author>Langhorne, Richard, 1654-1679.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49555</idno>
+            <idno type="STC">Wing L399</idno>
+            <idno type="STC">ESTC R14106</idno>
+            <idno type="EEBO-CITATION">11840014</idno>
+            <idno type="OCLC">ocm 11840014</idno>
+            <idno type="VID">49795</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49555)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49795)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 500:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech of Richard Langhorn Esq. at his execution July 14, 1679 being left in writing by him under his own hand.</title>
+                  <author>Langhorne, Richard, 1654-1679.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>1679?].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Langhorne, Richard, 1654-1679.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="speech">
+            <pb n="1" facs="tcp:49795:1"/>
+            <head>THE SPEECH OF Richard Langhorn <abbr>Eſq</abbr> At his Execution <hi>July</hi> 14. 1679. Being left in writing by him under his own hand.</head>
+            <argument>
+               <p>IN regard I could not foreſee whether I ſhould be permitted to ſpeak at my Death, ſo as to make a publick Declaration of my Innocency and Loyalty, as a Christian ought to do; conſidering likewiſe, that if it ſhould be per<g ref="char:EOLhyphen"/>mitted unto me, it would be more adviſable for me rather to prepare before<g ref="char:EOLhyphen"/>hand, and ſet down in writing the very words in which I ſhould make my Decla<g ref="char:EOLhyphen"/>ration, than to trust my memory with them; to the end that the ſame may be well conſidered of, and digested by me, and that all miſtakes might be prevented, as far as may be: I ſay, in regard of this, I have in the preſent Paper reduced what I have to declare, as to my Innocence and Loyalty. And 'tis in theſe following words.</p>
+            </argument>
+            <p>I Do ſolemnly and ſincerely, in the preſence of Almighty God, profeſs, teſti<g ref="char:EOLhyphen"/>fie and declare, as followeth: That is to ſay,</p>
+            <p n="1">1. That I do with my heart and ſoul, believe and own my moſt Gracious So<g ref="char:EOLhyphen"/>veraign Lord, the Kings Majeſty, King <hi>Charles</hi> the Second, to be my true and lawful Soveraign, Prince and King, in the ſame ſence and latitude, to all intents and purpoſes, as in the Oath commonly called, <hi>The Oath of Allegiance,</hi> His ſaid Majeſty is expreſſed to be King of this Realm of <hi>England.</hi>
+            </p>
+            <p n="2">2. That I do in my ſoul believe, That neither the Pope, nor any Prince, Po<g ref="char:EOLhyphen"/>tentate, or Forreign Authority, nor the People of <hi>England,</hi> nor any Authority out of this Kingdom, or within the ſame, hath or have any Right to diſpoſſeſs His ſaid Majeſty of the Crown or Government of <hi>England,</hi> or to depoſe him therefrom, for any Cauſe or pretended Cauſe whatſoever, or to give licence to me, or to any other of His ſaid Majeſties Subjects whatſoever, to bear Arms againſt His ſaid Majeſty, or to take away his Life, or to do him any bodily harm, or to diſturb the Government of this Kingdom, as the ſame is now eſta<g ref="char:EOLhyphen"/>bliſhed by Law, or to alter, or go about to alter the ſaid Government, or the Religion now eſtabliſhed in <hi>England,</hi> by any way of force.</p>
+            <p n="3">3. That I neither am, nor ever was, at any time or times, guilty, ſo much as in my moſt ſecret thoughts, of any Treaſon, or miſpriſion of Treaſon whatſo<g ref="char:EOLhyphen"/>ever.</p>
+            <p n="4">4. That I did not in the Month of <hi>November,</hi> or at any other time or times whatſoever, ſay unto Mr. <hi>Oates,</hi> or unto any other perſon or perſons whatſo<g ref="char:EOLhyphen"/>ever,
+<pb n="2" facs="tcp:49795:2"/>
+in relation to my Sons in <hi>Spain,</hi> or either of them, or in relation to any other perſon or perſons whatſoever, That if they did continue in the World, (as Secular Prieſts, or otherwiſe) they ſhould ſuddenly have great Promotions in <hi>England,</hi> for that things would not laſt long in the poſture wherein they then were; nor did I ever ſay any words to that or the like effect to any perſon or perſons whatſoever.</p>
+            <p n="5">5. That I did never in all my life-time write any Letter, or other thing what<g ref="char:EOLhyphen"/>ſoever, unto, or receive any Letter or other thing, from Father <hi>Le Cheeſe,</hi> or any <hi>French</hi> Jeſuit whatſoever, or from Father <hi>Anderton,</hi> or Cardinal <hi>Barbari<g ref="char:EOLhyphen"/>no,</hi> or any other Cardinal; nor did I ever ſee any Letter, or the Copy of any Letter, or other Paper, or other thing, written or purporting to be written un<g ref="char:EOLhyphen"/>to the ſaid <hi>Le Cheeſe,</hi> or unto the ſaid Father <hi>Anderton,</hi> or the ſaid Cardinal <hi>Barbarino,</hi> by any perſon or perſons whatſoever, other than the printed Let<g ref="char:EOLhyphen"/>ters, printed in the Narrative of the Trial of Mr. <hi>Edward Coleman,</hi> lately exe<g ref="char:EOLhyphen"/>cuted, which I never ſaw otherwiſe than in the ſaid printed Narrative; nor did I ever hear any mention made by any perſon whatſoever of the Name of <hi>Le Cheeſe,</hi> or Father <hi>Le Cheeſe,</hi> before I read the ſaid printed Narrative.</p>
+            <p n="6">6. That I did never in all my life-time make any Entry or Entries, into any Book or Books, or take, or make, or write, or cauſe to be written into any Book or Books, or otherwiſe any Letter or Letters, or any Copy or Copies of any Letter or Letters, written by the ſaid <hi>Edward Coleman,</hi> to any perſon or perſons whatſoever.</p>
+            <p n="7">7. That I did never in all my life-time enter or regiſter into any Book or Books, Paper or Papers whatſoever, or take, or make, or write, or cauſe to be written, any Copy or Copies, of any Act or Acts, Conſult or Conſults, Determi<g ref="char:EOLhyphen"/>nation or Determinations, Order or Orders, Reſolve or Reſolves, or other mat<g ref="char:EOLhyphen"/>ter or thing, at any time made, determined, reſolved, paſſed, decreed or agita<g ref="char:EOLhyphen"/>ted, at any Congregation or Congregations, Conſult or Conſults, Chapter or Chapters, Aſſembly or Aſſemblies, of the Society or Order of the <hi>Jeſuits,</hi> or of any other Religious Order whatſoever; nor did I ever ſee, read, or heard read, nor did any perſon or perſons, at any time whatſoever, ever communicate unto me, any ſuch Act, Conſult, Determination, Order, Reſolve, Matter or Thing whatſoever.</p>
+            <p n="8">8. That I did never in all my life-time, to my knowledge, belief or remem<g ref="char:EOLhyphen"/>brance, ſee or ſpeak with Mr. <hi>Bedloe,</hi> who gave Evidence againſt me at my Tryal, until I ſaw him in that Court wherein he gave Evidence againſt me.</p>
+            <p n="9">9. That after the month of <hi>November,</hi> which was in the year of our Lord 1677. I did never ſee or ſpeak with Mr. <hi>Titus Oates</hi> before named, until I ſaw him in the ſame Court where he gave Evidence againſt me at my Tryal.</p>
+            <p n="10">10. That I did never ſee in all my life-time, to my knowledge, belief or remembrance, any Commiſſion or Commiſſions, Patent or Patents, Grant or Grants, Order or Orders, Inſtrument or Inſtruments, Writing or Writings, or other matter or thing whatſoever, under, or pretended to be under the Hand and Seal, or the Hand or the Seal of <hi>Johannes Paulus de Oliva,</hi> or any other General of the <hi>Jeſuits</hi> whatſoever, other then the Paper or Inſtrument produ<g ref="char:EOLhyphen"/>ced and ſhewed unto me in the ſaid Court at my Tryal, which whether it was ſigned or ſealed by the ſaid <hi>de Oliva,</hi> I do not know.</p>
+            <p n="11">11. That I did never in all my life-time write, or cauſe or procure to be written, any Treaſonable Letter or Letters whatſoever, or any thing which was or is Treaſon or Treaſonable, in any Letter or Letters, Book or Books, Paper or Papers, or otherwiſe howſoever.</p>
+            <p n="12">
+               <pb n="3" facs="tcp:49795:2"/>12. That I believe, that if I did know, or ſhould know of any Treaſon or Treaſonable Deſign, that was or is intended, or ſhould be intended againſt His ſaid Majeſty, or the Government of this His Majeſties Kingdom, or for the Alteration by force, advice or otherwiſe, of the ſaid Government, or of the Religion now eſtabliſhed in this Kingdom, and ſhould conceal and not diſco<g ref="char:EOLhyphen"/>ver the ſame unto His ſaid Majeſty, or His ſaid Majeſtie's Councel or Miniſters, or ſome of them; that ſuch concealment would be in me a ſin unto Death, and Eternal Damnation.</p>
+            <p n="13">13. That I do believe, that it is no ways lawful for me to lye, or ſpeak any thing which I know to be untrue; or to commit any ſin, or do any Evil, that Good may come of it. And that it is not in the Power of any Prieſt, or of the Pope, or of God himſelf, to give me a Licenſe to Lye, or to ſpeak any thing which I know to be untrue, becauſe every ſuch Lye would be a ſin againſt Truth: And Almighty God, who is perfect Truth, cannot give me a Licenſe to commit a ſin againſt his own Eſſence.</p>
+            <p>And I do ſolemnly in the preſence of God, Profeſs, Teſtify and Declare, That as I hope for Salvation, and expect any benefit by the Blood and Paſſion of my deareſt Saviour Jeſus Chriſt, I do make this Declaration and Proteſtati<g ref="char:EOLhyphen"/>on and every part thereof in the Plain and Ordinary Senſe, wherein the ſame ſtands Written, as they are commonly underſtood by <hi>Engliſh</hi> Proteſtants and the Courts of Juſtice of <hi>England</hi> without any Evaſion, or Equivocation, or Deluſion, or Mental Reſervation whatſoever. And without any Diſpen<g ref="char:EOLhyphen"/>ſation or Pardon, or Abſolution already granted to me, for this or any other pur<g ref="char:EOLhyphen"/>poſe by the Pope or any other Power, Authority or Perſon whatſoever, Or, without any hope, expectation or deſire of any ſuch Diſpenſation; and with<g ref="char:EOLhyphen"/>out thinking or believing that I am or can be acquitted before God or Man, or abſolved of this Declaration or any part thereof, although the Pope or any other Perſon or Perſons, or Power or Authority whatſoever ſhould di<g ref="char:EOLhyphen"/>ſpence with, Or take upon him or them to diſpence with, or Annull the ſame, Or declare that it was, or is, or ought to be Null or Void in part, or in the whole, from the beginning, or otherwiſe howſoever.</p>
+            <p>Having made this Declaration and Proteſtation in the moſt plain Terms that I can poſſibly imagine to expreſs my ſincere Loyalty and Innocency, and the clear intention of my Soul, I leave it to the Judgments of all Good and Charitable perſons whether they will belive what is here in this manner affirmed and ſworn by me in my preſent Circumſtances, or what is ſworn by my Accuſers.</p>
+            <p>I do now farther declare, That I die a Member (though an unworthy one) of that Holy Catholick and Apoſtolick Church of Chriſt, mentioned in the Three Holy and Publick Creeds, of which Church our Lord Jeſus Chriſt is the Invi<g ref="char:EOLhyphen"/>ſible Head of Influence, to illuminate, guide, protect and govern it by his Holy Spirit and Grace, and of which Church, the Biſhop of <hi>Rome,</hi> as the Succeſſor of St. <hi>Peter,</hi> the Prince of the Apoſtles, is the viſible Head of Government and Unity.</p>
+            <p>I take it to be clear, That my Religion is the ſole cauſe, which moved my Accuſers to charge me with the Crime, for which upon their Evidence I am ad<g ref="char:EOLhyphen"/>judged to die, and that my being of that Religion, which I here profeſs, was the only ground which could give them any hope to be believed, or which could move my Jury to believe the Evidence of ſuch men.</p>
+            <p>
+               <pb n="4" facs="tcp:49795:3" rendition="simple:additions"/>I have had not only a Pardon, but alſo great Advantages, as to Preferments, and Eſtates offred unto me, ſince this Judgement was againſt me, in caſe I would have forſaken my Religion, and owned my ſelf guilty of the Crime charged againſt me, and charged the ſame Crimes upon others: But bleſſed be my God, who by his Grace hath preſerved me from yielding to thoſe Temptations, and ſtrengthened me rather to chooſe this death, than to ſtain my Soul with ſin, and to charge others, againſt truth, with Crimes, of which I do not know that any perſon is guilty.</p>
+            <p>Having ſaid what concerns me to ſay as to my ſelf, I now humbly beſeech God to bleſs the Kings Majeſty with all temporal and eternal Bleſſings, and to preſerve Him and His Government from all Treaſons and Traitors whaſoever, and that His Majeſty may never fall into ſuch hands, as His Royal Father of Glorious Memory fell into.</p>
+            <p>I alſo humbly beſeech thee (O God) to give true Repentance and Pardon to all my Enemies, and moſt particularly to the ſaid Mr. <hi>Oates</hi> and Mr. <hi>Bedloe,</hi> and to all who have been any ways acceſſary to the taking away of my Life, and the ſhedding of my innocent Blood, or to the preventing the King's Mercy from being extended unto me; and likewiſe to all thoſe who rejoyced at the Judgement given againſt me, or at the execution of the ſaid Judgement; and to all thoſe who are or ſhall be ſo unchriſtianly uncharitable, as to disbelieve, and to refuſe to give credit unto my now Proteſtations.</p>
+            <p>And I beſeech thee (O my God) to bleſs this whole Nation, and not to lay the guilt of my Blood unto the charge of this Nation, or of any other par<g ref="char:EOLhyphen"/>ticular perſon or perſons of this Nation. Unite all (O my God) unto thee and thy Church, by true Faith, Hope and Charity, for thy mercies ſake.</p>
+            <p>And for all thoſe who have ſhewed Charity to me, I humbly beg (O my Jeſus) that thou wilt reward them with all Bleſſings both temporal and eter<g ref="char:EOLhyphen"/>nal.</p>
+            <closer>
+               <dateline>
+                  <date>13 <hi>July,</hi> 1679.</date>
+               </dateline>
+               <signed>R. Langhorn.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
